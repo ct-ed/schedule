@@ -30,7 +30,8 @@ h3, h4, h5, h6 {
 
 p {
   font-size: var(--font-size-fluid-0);
-  font-weight: var(--font-weight-5);
+  font-weight: var(--font-weight-4);
   font-family: var(--font-humanist);
-  line-height: var(--font-lineheight-05);  
+  line-height: var(--font-lineheight-1);  
+  margin-block-end: 0.5rem;
 }
