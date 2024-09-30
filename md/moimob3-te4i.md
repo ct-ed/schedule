@@ -132,9 +132,22 @@ Sätt upp en utvecklingsmiljö!
 
 ### Tisdag   
 
+Ni arbetar vidare med er utvecklingsmiljö. Ni som har fått ordning på utvecklingsmiljön arbetar vidare med MIT App Inventor.
+
+På torsdag introduceras ni till ert första projekt där ni bland annat använder MIT App Inventor.
+Då är er utvecklingsmiljö helt färdig och i fullgång, samt ni har kunskaper om att snabbt kunna påbörja MIT App Inventor-projektet.
+
 ### Torsdag
 
+Vi startar det första projektet och går igenom vad som skall göras.
+
+[Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-mitappinventor) 
+
 ### Fredag   
+
+*Sociala medier-genomgång*: [CSSnano](https://cssnano.github.io/cssnano/), "[Energidrycker upp 90 procent – läkarnas dom](https://www.dagensps.se/weekend/halsa/energidrycker-upp-90-procent-lakarnas-dom/)" och en AI-roast av Kenneths gamla Twitter-historik:   
+
+![bild](https://github.com/user-attachments/assets/b1abe81f-ec5c-4016-a62c-46cce62db9da)   
 
 ## Vecka 40   
 
@@ -144,7 +157,7 @@ Sätt upp en utvecklingsmiljö!
 
 ### Torsdag
 
-### Fredag   
+**Presentation av uppgiften MIT App Inventor**   
 
 ## Vecka 41   
 
