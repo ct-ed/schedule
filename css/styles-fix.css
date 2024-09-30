@@ -27,3 +27,10 @@ h3, h4, h5, h6 {
   font-family: var(--font-rounded-sans);
   line-height: var(--font-lineheight-1);
 }
+
+p {
+  font-size: var(--font-size-fluid-0);
+  font-weight: var(--font-weight-5);
+  font-family: var(--font-humanist);
+  line-height: var(--font-lineheight-05);  
+}
