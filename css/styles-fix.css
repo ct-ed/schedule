@@ -10,14 +10,14 @@ h1 {
   font-size: var(--font-size-fluid-3);
   font-weight: var(--font-weight-9);
   font-family: var(--font-sans);
-  line-height: var(--font-lineheight-1);
+  line-height: var(--font-lineheight-00);
 }
 
 h2 {
   font-size: var(--font-size-fluid-2);
   font-weight: var(--font-weight-9);
   font-family: var(--font-sans);
-  line-height: var(--font-lineheight-1);
+  line-height: var(--font-lineheight-00);
   border-block-end: var(--border-size-1) solid var(--gray-5);
   margin-block-end: 0.5rem;
   color: darkblue;
@@ -27,14 +27,14 @@ h3, h4, h5, h6 {
   font-size: var(--font-size-fluid-1);
   font-weight: var(--font-weight-2);
   font-family: var(--font-rounded-sans);
-  line-height: var(--font-lineheight-1);
+  line-height: var(--font-lineheight-00);
 }
 
 p {
   font-size: var(--font-size-fluid-0);
   font-weight: var(--font-weight-4);
   font-family: var(--font-humanist);
-  line-height: var(--font-lineheight-1);  
+  line-height: var(--font-lineheight-2);  
   max-width: 65ch;
   margin-block-end: 0.5rem;
 }
