@@ -35,5 +35,6 @@ p {
   font-weight: var(--font-weight-4);
   font-family: var(--font-humanist);
   line-height: var(--font-lineheight-1);  
+  max-width: 65ch;
   margin-block-end: 0.5rem;
 }
