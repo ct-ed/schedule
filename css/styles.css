@@ -1,3 +1,4 @@
+@import "https://seetee.github.io/bp/reset/main.css";
 @import "https://unpkg.com/open-props";
 body {
   background-color: var(--background-color);
