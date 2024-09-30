@@ -19,8 +19,8 @@ h2 {
   font-family: var(--font-sans);
   line-height: var(--font-lineheight-00);
   border-block-end: var(--border-size-1) solid var(--gray-5);
-  margin-block-end: var(--size-fluid-1);;
-  color: darkblue;
+  margin-block-end: var(--size-fluid-1);
+  color: --blue-{11};
   text-align: right;
 }
 
@@ -37,5 +37,5 @@ p {
   font-family: var(--font-humanist);
   line-height: var(--font-lineheight-3);  
   max-inline-size: var(--size-content-3);
-  margin-block-end: 0.5rem;
+  margin-block-end: var(--size-fluid-2);
 }
