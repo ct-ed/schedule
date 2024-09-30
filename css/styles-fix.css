@@ -1,2 +1,10 @@
 @include "https://seetee.github.io/bp/reset/main.css";
 @import "https://unpkg.com/open-props";
+
+h1 {
+  font-size: var(--font-size-fluid-3);
+  font-weight: var(--font-weight-9);
+  font-family: var(--font-sans);
+  line-height: var(--font-lineheight-1);
+  color: hotpink;
+}
