@@ -6,5 +6,18 @@ h1 {
   font-weight: var(--font-weight-9);
   font-family: var(--font-sans);
   line-height: var(--font-lineheight-1);
-  color: hotpink;
+}
+
+h2 {
+  font-size: var(--font-size-fluid-2);
+  font-weight: var(--font-weight-9);
+  font-family: var(--font-sans);
+  line-height: var(--font-lineheight-1);
+}
+
+h3, h4, h5, h6 {
+  font-size: var(--font-size-fluid-1);
+  font-weight: var(--font-weight-2);
+  font-family: var(--font-rounded-sans);
+  line-height: var(--font-lineheight-2);
 }
