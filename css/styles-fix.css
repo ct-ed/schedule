@@ -32,7 +32,7 @@ h3, h4, h5, h6 {
   font-weight: var(--font-weight-2);
   font-family: var(--font-rounded-sans);
   line-height: var(--font-lineheight-00); 
-  margin-block: var(--size-fluid-2);
+  margin-block: var(--size-fluid-2) var(--size-fluid-1);
 }
 
 p {
