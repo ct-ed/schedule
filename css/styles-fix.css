@@ -50,6 +50,16 @@ body {
   margin-inline: var(--size-fluid-1);
 }
 
+a {
+  color: var(--color-orange-8); 
+}
+
+a:not(:link) {
+  text-decoration: none; 
+}
+
+
+
 /* Layout */
 
 
