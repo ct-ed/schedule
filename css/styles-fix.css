@@ -20,6 +20,7 @@ h2 {
   font-weight: var(--font-weight-9);
   font-family: var(--font-sans);
   line-height: var(--font-lineheight-00);
+  max-width: 50vw;
   border-block-end: var(--border-size-1) solid var(--gray-5);
   margin-block-end: var(--size-fluid-2);
   color: var(--blue-11);
@@ -76,7 +77,5 @@ img {
   max-width: 100%;
 }
 
-li {
-  columns: 2;
-}
+
 
