@@ -52,7 +52,6 @@ body {
 
 a {
   color: var(--orange-8); 
-  text-transform: uppercase;
   cursor: pointer;
 }
 
@@ -60,6 +59,10 @@ a:not(:link) {
   text-decoration: none; 
 }
 
+:target {
+  background: var(--orange-8);
+  outline: 2px solid var(--blue-12);
+}
 
 
 /* Layout */
