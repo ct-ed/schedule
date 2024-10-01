@@ -51,7 +51,9 @@ body {
 }
 
 a {
-  color: var(--color-orange-8); 
+  color: var(--orange-8); 
+  text-transform: uppercase;
+  cursor: pointer;
 }
 
 a:not(:link) {
