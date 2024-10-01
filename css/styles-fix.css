@@ -54,11 +54,15 @@ a {
   color: var(--orange-8); 
   cursor: pointer;
 }
-
+/*
 a:not(:link) {
   text-decoration: none; 
 }
 
+a:not(:local-link) {
+  background: purple;
+}
+*/
 :target {
   background: var(--orange-8);
   outline: 2px solid var(--blue-12);
