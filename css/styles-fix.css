@@ -22,7 +22,7 @@ h2 {
   line-height: var(--font-lineheight-00);
   max-width: 75vw;
   border-block-end: var(--border-size-1) solid var(--gray-5);
-  margin-block-end: var(--size-fluid-2);
+  margin-block-end: var(--size-fluid-3);
   color: var(--blue-11);
   text-align: right;
 }
