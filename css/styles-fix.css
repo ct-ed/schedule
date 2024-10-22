@@ -1,8 +1,11 @@
 @include "https://seetee.github.io/bp/reset/main.css";
+
+@import "https://cdn.simplecss.org/simple.min.css";
 @import "https://unpkg.com/open-props";
 
 /* Typography */
 
+/*
 h1, h2, h3, h4, h5, h6, p, ul {
   margin-block: 0;
   margin-inline: 0;
@@ -43,6 +46,7 @@ p, ul {
   max-inline-size: var(--size-content-3);
   margin-block-end: var(--size-fluid-2);
 }
+*/
 
 /* Theming */
 
