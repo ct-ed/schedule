@@ -153,7 +153,11 @@ Vi startar det första projektet och går igenom vad som skall göras.
 
 ### Måndag   
 
+Arbeta vidare med uppgiften   
+
 ### Tisdag   
+
+Arbeta vidare med uppgiften   
 
 ### Torsdag
 
@@ -163,31 +167,80 @@ Vi startar det första projektet och går igenom vad som skall göras.
 
 ### Måndag   
 
+###### Progressive Web Apps
+
+Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", och "[What PWA Can Do Today](https://whatpwacando.today/)".  
+
+De tre kraven för en PWA är följande: 
+
+1) HTTPS/SSL (som löses med [GitHub Pages](https://pages.github.com/) eller [Let's Encrypt](https://letsencrypt.org/))  
+2) En service worker (vilket bara är någon rad JavaScript)
+3) Ett Webb App Manifest (vilket kan lösas med "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)")   
+"[Progressive Web Apps: Where Do I Begin?](https://youtu.be/e8R-34uTtU8)" (58 min)      
+
+I videon talar Aaron bland annat om [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) och [Microsoft Design Guidelines](https://inclusive.microsoft.design/) (som sedan dess bytt namn).  
+
+Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehåll eller funktionalitet, men den skall kännas igen som en PWA av verktyg som [PWA Testing Tool](https://www.seoreviewtools.com/pwa-testing-tool/).  
+
 ### Tisdag   
 
 ### Torsdag
 
+Vi ser på klipp om populära mobiltelefoner sedan 1996 och pratar även om hur telefoner är uppbygda.
+
+Grupper finns på Teams.
+
+En ny uppgift om mobila operativsystem presenteras. Länk till uppgiften finns nedan. **DEADLINE**: **Presentation 22 oktober** och **inlämning 25 oktober**.
+
+[Uppgift: Mobila operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/moimob-operativsystem)                   
+
 ### Fredag   
+
+Arbeta vidare med uppgiften   
+
+*Sociala medier-genomgång*: Vi talar om nya arbetstillfällen tack vare the [European Accessibility Act](https://en.wikipedia.org/wiki/European_Accessibility_Act) som träder i kraft 2025, det halvårsgamla memet "[Keep a Little Dirt Under My Pillow for The Dirt Man](https://youtu.be/Su4Kb-roLZE?)", ett [fantastiskt skämt om git](https://infosec.exchange/@SecureOwl/113232620588922374), [ProjectServiceWorker](https://mastodon.world/@dannymoerkerke/113206016741637252) och avslutar med det lastgamla memet om "[Modermodemet, själva hjärtat i hårddisken](https://www.youtube.com/shorts/WjSUsQUOy_U)".
 
 ## Vecka 42   
 
 ### Måndag   
 
+Dags för steg 2 i det längre app-projektet! Nu skall ni bygga en PWA!  
+
+[Uppgift: PWA](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)                    
+
 ### Tisdag   
 
 ### Torsdag
 
 ### Fredag   
+
+Kevin Powell berättar om vad som hände när "[I gave three AI models a CSS quiz](https://youtu.be/1q6qLcH8ADY)" (50 min), och vi följer med honom på resan.   
+
+Arbeta vidare med projektet.  
+
+*Sociala medier-genomgång*: Heydon Pickering skriver många utmärkta artiklar, och Axel tipsade om den starkt ironiska "[CSS: A New Kind Of JavaScript](https://heydonworks.com/article/css:-a-new-kind-of-javascript/)", kanhända har du nytta av [bildeditorn Sly](https://github.com/kra-mo/sly) och avslutningsvis tittar vi på "[8 Easy Ways to Improve Your Website Typography in Under 30 minutes](https://www.webdesignerdepot.com/2021/01/8-easy-ways-to-improve-your-website-typography-in-under-30-minutes/)".   
 
 ## Vecka 43   
 
 ### Måndag   
 
+Arbeta vidare med projektet.  
+
 ### Tisdag   
+
+Vi kör några omgångar [Hexcodle](https://hexcodle.com/) och talar om varför [OKLCH](https://oklch.com/) är så lättanvänt, samt att det är fortsatt viktigt med kontrast som kan kollas med [OddContrast](https://www.oddcontrast.com/)!  
+
+Arbeta vidare med projektet, denna veckan bör förarbetet, planeringen och designsystemet vara klart. Dessutom en fungerande PWA (som inte behöver ha något innehåll än).  
 
 ### Torsdag
 
 ### Fredag   
+
+Vi funderar kring frågan "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min) och hur olika karriärer leder oss längs spännande vägar! Uncle Stef delar med sig av sin livsvisdom.   
+
+Arbeta vidare med projektet.  
+
+*Sociala medier-genomgång*: [Loro är en CRDT](https://social.coop/@scottjenson/113358584617366527), för att hålla sig uppdaterad är [Daily Tech News Show](https://dailytechnewsshow.com/) ett utmärkt alternativ, The Verge lär oss om [hur världen såg ut för tjugo år sedan](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture) och [studier visar att katter är vätskor](https://www.sciencealert.com/cats-basically-are-a-liquid-after-all-study-confirms)!     
 
 ## Vecka 44   
 
@@ -197,7 +250,33 @@ Vi startar det första projektet och går igenom vad som skall göras.
 
 ### Måndag   
 
+###### Testning  
+Sedan tidigare är ni bekanta med hur man testar [kontrast](https://www.oddcontrast.com/), a11y, om koden [validerar](https://www.w3.org/developers/tools/), [laddningshastighet](https://pagespeed.web.dev/), [LCP](https://web.dev/lcp/), och så vidare... Nu när ni kan använda taskrunners så går det mycket lättare att automatisera sådant som a11y-tester med verktyg som [axe-core](https://www.npmjs.com/package/axe-core). Men det finns många fler sorters tester, som vi kommer titta närmare på nu!  
+
+[web.dev Learn Testing](https://web.dev/learn/testing) "What testing is" och "Types of automated testing"   
+
+* "[What Are the Types of Automated Testing](https://youtu.be/CQpY3W60PlY)" (1 min)  
+* "[What is Unit Testing and Why You Must Learn It](https://youtu.be/W2KOSaetWBk)" (2 min)
+* "[End to End Testing in 60 Seconds](https://youtu.be/OtJkafQtLGs)" (1 min)
+
+Notera att det finns olika standarder för vad man kallar tester på olika nivåer, men det handlar oftast om hur stor del av webbplatsen som testas.  
+
+* Accessibility testing, UI testing  
+* **Unit** testing, Component testing   
+* **Integration** testing, API testing   
+* System testing, End-to-end (**E2E**) testing  
+
+[MDN Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)   
+
+[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på X uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
+
+Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera både axe-core och Cypress enligt ovan.  
+
 ### Tisdag   
+
+Gör klart implementeringen av tester i er personliga PWA och lämna in på Teams.  
+
+Arbeta vidare med projektet  
 
 ### Torsdag
 

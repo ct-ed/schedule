@@ -50,6 +50,8 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 * Varje vecka gör du ett **test** på föregående veckas material
 * I slutet av varje större moment gör du ett **prov** på det
 
+Vi kommer att använda många verktyg under kursens gång, men de som är aktuella under höstterminen är [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) och [Anteckningar](https://en.wikipedia.org/wiki/Windows_Notepad).   
+
 ###### HTML - Att märka upp text        
 
 Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man märker upp text på alla möjliga sätt och vis!        
@@ -60,6 +62,8 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 * MDN [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting) (Överkurs)
 * MDN [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 * MDN Test your skills: [Links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
+
+Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-element/), det är viktigt!  
 
 ## Vecka 39   
 
@@ -98,37 +102,74 @@ Vi kommer nu att lära oss ett helt gäng HTML-taggar och attribut för att kunn
 
 [<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)           
 
-
-
 [Uppgift: Structuring a page of content](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01_structuring_a_page_of_content)     
 
 Quiz: HTML - Att märka upp text   
 
 ## Vecka 40   
 
-<!--   
+Quiz: Att hitta sin fil + HTML - Struktur   
+
 ###### HTML - Bilder och media (+ felsökning)           
 
 När du skall lägga till en bild måste du avgöra om den är en del av innehållet eller utseendet, för att kunna bestämma om den skall ligga som en IMG-tag i HTML eller som en background-image i CSS. Nu tittar vi på hur man lägger till bilder som innehåll, men det är mycket att tänka på, både funktionsvariationer, bandbredd, format och [CLS](https://web.dev/articles/cls).    
 
-* MDN [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)       
-* MDN [Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)        
-* MDN [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)        
+* MDN [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)     
+* MDN [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)         
 * MDN [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
--->  
 
-Quiz: Att hitta sin fil + HTML - Struktur   
+Quiz: HTML - Bilder och media (+ felsökning) (görs på egen tid mellan torsdag v40 och lektionen på måndag v41)
 
 ## Vecka 41   
 
-Prov på HTML?   
+Repetition på HTML. Hur många element kan du? Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)").   
+
+Prov: HTML   
 
 ## Vecka 42   
 
+Välj era resurser. Kom ihåg [W3Fools](https://www.w3fools.com/) och även om saker ändrats, är frågan [Do we still hate w3schools or...](https://masto.ai/@teacherbuknoy/112890440326314007) berättigad.   
+
+
+###### CSS First steps           
+* MDN [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                      
+* MDN [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)              
+* MDN [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)             
+* MDN [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)       
+
+[Uppgift: Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)             
+
+###### CSS Selektorer           
+* MDN [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) (Överkurs: Type of selectors)             
+* MDN [Type, class, and ID selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)             
+* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors) (Överkurs)            
+* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)            
+* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) (Överkurs: Creating complex selectors with nesting)       
 
 ## Vecka 43   
 
+Quiz: CSS Seletorer  
+
+Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)     
+
+###### CSS Cascade och Specificity           
+* MDN [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) (Överkurs: Controlling inheritance, Resetting all property values, Order of cascade layers, Scoping proximity)   
+* MDN [Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers) (Överkurs)  
+
+"[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).   
+
+###### CSS Box model    
+* MDN [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)  
+* MDN [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)     
+* MDN [Handling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions) (Överkurs, förutom Logical properties and values)  
+* Mapped logical properties: [margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block) and [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)  
+* MDN [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content) (Överkurs)      
+
+"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54), "[Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)"    
+
+Test your skills: [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Box_Model_Tasks)  
+Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Test_your_skills_backgrounds_and_borders)    
 
 ## Vecka 44   
 
@@ -136,24 +177,44 @@ Prov på HTML?
 
 ## Vecka 45   
 
+###### CSS Box Model  
 
 ## Vecka 46   
 
+###### Värden och enheter + felsökning  
 
 ## Vecka 47   
 
+###### Färgteori   
+
+<!-- 
+[Tänk på läsbarheten på era hemsidor](https://www.gp.se/fria-ord/ska-fettforaktet-tryckas-ner-i-halsen-pa-vara-barn-sa-fort-de-lar-sig-lasa.757e2417-7ee9-4165-9e99-da23b8202d3c)
+--> 
 
 ## Vecka 48   
 
+###### Styling text och Layout   
+
+<!-- 
+https://jasonsantamaria.com/ "On Web Typography"
+-->
 
 ## Vecka 49   
 
+###### Planeringsverktyg   
 
 ## Vecka 50   
 
+Prov: CSS  
 
 ## Vecka 51   
 
+Fortsättning planeringsverktyg...
+
+<!-- 
+caniuse.com 
+whocanuse.com 
+-->
 
 ## Vecka 52   
 

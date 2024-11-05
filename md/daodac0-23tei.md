@@ -59,14 +59,64 @@ Labbmanualen finns att ladda ner i inlämningsmappen i vårat Teams-rum. Ni fort
 
 ## Vecka 40   
 
+Vi går gemensamt igenom hela kapitel 1.
+Arbeta med labbuppgiften "Tre datorpaket".
 
-## Vecka 41   
 
+## Vecka 41 
+
+Vi pratar om planering för kursen och materialet IT Essentials 8.
+Christoffer och Ronnie kommer inte att gå igenom alla kapitel (moduler) i IT Essentials 8 materialet.
+Siktar du på att ta IT Essentials certifikatet måste du läsa in övriga kapitel själv.
+Vi rekommenderar starkt att du anstränger dig och tar certifikatet.
+Vår plan är att läsa kapitel 1 och genom labbuppgift "Tre datorpaket" beröra kapitel 2 och 3.
+Härnäst kommer vi att gå igenom kapitel 10 och 11 - Operativsystem.
+Därefter kapitel 5 och 6 - Nätverk.
+Kapitel 14 - The IT proffessional ska vi hinna med gemensamt också.
+Övriga kapitel läser ni in själva.
+
+Måndag:
+Vi gör 1.5 Module Exam - efteråt begrundar vi resultatet, ni får feedback över vad ni måste komplettera samt rätt svar med förklaring - läs igenom!
+
+Genomgång av kapitel 10 - Windows installation, fram till och med 10.2.1.3.
+Gör övning 10.2.1.4.
+
+Resten av lektionen arbetar vi färdigt med labbuppgift "Tre datorpaket", den ska vara färdig nu.
+Ni som är färdiga arbetar med kapitel 2,3 och 4. 
+
+Onsdag:
+
+Vi pratar färdigt kapitel 10 (Windows Installation) samt gör övningar till kapitlet. 
+
+Vi börjar också gå igenom kapitel 11 (Windows Konfiguration) och går igenom allt till och med 11.1.3. Tittar på youtube-klipp och visar information om Windows historia och vad för versioner som har släppts genom åren.
 
 ## Vecka 42   
+![image](https://github.com/user-attachments/assets/91d02e2d-0bd9-49ff-bbf4-277a93472f3f)
+
+
+
+Måndag:
+Genomgång av kapitel 11.1 färdigt.
+Gör första delen av övningen för filhanteraren 11.1.4.11
+Vi går gemensamt igenom 11.2 och berör delar av 11.3 - med fokus på kontrollpanelen och Administrationsverktyg.
+Till onsdag ska ni ha gjort 11.1.4.12 och 11.2.10 - Check your understanding.
+
+Länk till filändelser - https://en.wikipedia.org/wiki/List_of_file_formats
+
+Onsdag:
 
 
 ## Vecka 43   
+![image](https://github.com/user-attachments/assets/587f3d80-3e8a-47ba-b50d-664aac86412e)
+
+Måndag:
+Genomgång av kapitel 11.3 - System Administration färdigt.
+Vi går gemensamt igenom 11.4 - Command-Line Tools.
+Arbeta med interaktiva övningar och gör delkapitel quiz.
+Testa kommandon som står i laboration 11.4.1.5 på din egna dator.
+
+Onsdag:
+
 
 
 ## Vecka 44   
@@ -74,7 +124,11 @@ Labbmanualen finns att ladda ner i inlämningsmappen i vårat Teams-rum. Ni fort
 **HÖSTLOV**   
 
 ## Vecka 45   
+Måndag:
+Repetition av kapitel 10 och 11.
 
+Onsdag:
+Checkpoint Exam - kapitel 10 och 11.
 
 ## Vecka 46   
 
