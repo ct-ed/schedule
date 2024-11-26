@@ -52,7 +52,7 @@ body {
   background: var(--stone-2);
   margin-block: var(--size-fluid-1);
   margin-inline: var(--size-fluid-1);
-  color: #000;
+  color: var(--gray-12);
 }
 
 a {
@@ -76,7 +76,7 @@ a:not(:local-link) {
 
 /* Layout */
 
-main iframe, main img {
+iframe, img {
   max-width: 100%;
   border-radius: 3px; 
   outline: 1px solid var(--orange-8);
