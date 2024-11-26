@@ -74,8 +74,8 @@ a:not(:local-link) {
   outline: 2px solid var(--blue-12);
 }
 
-nav svg {
-  color: #fff;
+nav img {
+  filter: invert(1);
 }
 
 
