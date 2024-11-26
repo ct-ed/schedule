@@ -35,6 +35,7 @@ h3, h4, h5, h6 {
   line-height: var(--font-lineheight-00); 
   margin-block: var(--size-fluid-2) var(--size-fluid-1);
 }
+*/
 
 p, ul {
   font-size: var(--font-size-fluid-0);
@@ -44,7 +45,6 @@ p, ul {
   max-inline-size: var(--size-content-3);
   margin-block-end: var(--size-fluid-2);
 }
-*/
 
 /* Theming */
 
