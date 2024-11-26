@@ -40,7 +40,7 @@ Vill du göra en installation i en container så krävs att du synkroniserar en 
 
         lando start
 
-> Får du 404-felmeddelanden här så kan det bero på att du installerat en Drupal-version via Snap, eller att du inte flyttat filerna så som det beskrivs i punkt 4  
+> Får du 404-felmeddelanden här så kan det bero på att du installerat en Docker-version via Snap, att du inte flyttat filerna så som det beskrivs i punkt 4 eller att du inte har kört lando init i din projektkatalog som det beskrivs i punkt 1 och 2  
 
 6) Nästa steg är att be Lando att installera Drush via Composer.  
 
@@ -59,6 +59,8 @@ Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare på URL:en som
 ### Felsökning      
 
 Många problem beror på att du befinner dig i fel katalog när du kör dina kommandon. Andra problem kan lösas om du kör "lando rebuild".  
+
+Någon enstaka elev har fått felet att certifikaten för projektet blivit kataloger istället för filer, detta löses genom att ta bort katalogerna och skapa filer med samma namn. Certifikaten finns i ~/.lando/certs/  
 
 Om du kör i Windows finns flera begränsningar som kan ställa till det. Här är några förslag på lösningar.       
 

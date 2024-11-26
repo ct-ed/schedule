@@ -103,7 +103,31 @@ Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner
 
 ## Vecka 45   
 
+Repetition och en titt på läxan.  
+
+Vi ser avsnitten 27-29 (Taxonomy, 10min), 30-31 (Content, 10min) och 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
+
+## Vecka 46  
+
+Lektionen utgår  
+
+## Vecka 47   
+
+Vi ser avsnitten 37-40 (Views, 20min) och 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+[Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
+
+--
+
+Andra halvan av lektionen ser vi en föreläsning och diskuterar den.  
+
+"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
+
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf. 
+
 <!-- 
+
+𝕏
 
 [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
 
@@ -111,31 +135,18 @@ Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner
 
 [How To Use AI in Drupal to Set the Tone of Your Content](https://youtu.be/Vz7oTYYBeK0) (8 min)   
 
-samt avsnitten 27-29 (Taxonomy, 10min) 
-
-Vi ser avsnitten 30-31 (Content, 10min) och 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
-
-
-Vi ser avsnitten 37-40 (Views, 20min) och 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
-
 Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".     
 
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 -->   
 
-## Vecka 46   
-
-
-## Vecka 47   
-
-Prov på Grundkurs i CMS     
-
 ## Vecka 48   
 
 
 ## Vecka 49   
 
+Prov på Grundkurs i CMS   
 
 ## Vecka 50   
 

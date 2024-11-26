@@ -87,7 +87,7 @@ Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/w
 ### Måndag   
 
 ###### The Fediverse      
-Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/X drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
+Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/𝕏 drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
 
 Slutprov på [JavaScript Essentials 1](https://www.netacad.com/courses/javascript-essentials-1)   
 
@@ -268,7 +268,7 @@ Notera att det finns olika standarder för vad man kallar tester på olika nivå
 
 [MDN Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)   
 
-[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på X uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
+[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på 𝕏 uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
 
 Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera både axe-core och Cypress enligt ovan.  
 
@@ -278,49 +278,113 @@ Gör klart implementeringen av tester i er personliga PWA och lämna in på Team
 
 Arbeta vidare med projektet  
 
+Majoriteten av alla [API](https://en.wikipedia.org/wiki/API)er idag är av typen [REST](https://en.wikipedia.org/wiki/Representational_state_transfer). Vi ser "[RESTful APIs in 100 Seconds](https://youtu.be/-MTSQjw5DrM)" (3 min). Sedan 
+Vi tittar också på olika demos med hjälp av öppna API'er.
+
+Ni testar själv att exprimentera med öppna API'er från [Publika API'er från Github](https://github.com/public-apis/public-apis?tab=readme-ov-file)
+
 ### Torsdag
 
+Arbeta vidare med projektet  
+
 ### Fredag   
+
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*: Många coola rekommendationer denna veckan! För lågupplösta 3D-modeller finns [Blockbench](https://www.blockbench.net/), behöver du redigera en PDF så finns [Stirling PDF](https://stirlingpdf.io/), vill du ha ett gratis alternativ till Copilot så finns [Codeium](https://codeium.com/), ett DRM-fritt alternativ till Audible är [Libro.fm](https://libro.fm) och det är värt att återigen se över ditt CSS-resetdokument, eftersom [Your CSS reset should be layered](https://mayank.co/blog/css-reset-layer/)!  
 
 ## Vecka 46   
 
 ### Måndag   
 
+Arbeta vidare med projektet  
+
 ### Tisdag   
+
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*: En utmärkt resurs för moodboards är [same.energy](https://same.energy/search?q=warm+sunset%2C+beach%2C+cliffs), två fantastiska fonter för wireframes är [BLOKK](https://github.com/los-gordos/BLOKK) och [Redacted Script](https://fonts.google.com/specimen/Redacted+Script), två djupdykningar som är värda att göra är "[Exploring the browser rendering process](https://abhisaha.com/blog/exploring-browser-rendering-process)" och "[Fluid Everything Else](https://css-tricks.com/fluid-everything-else/)" och slutligen har vi en bra resurs att skicka till släktingar med foliehatt, "[Is my phone listening to me?](https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me)"   
 
 ### Torsdag
 
+Arbeta vidare med projektet  
+
 ### Fredag   
+
+Arbeta vidare med projektet  
 
 ## Vecka 47   
 
 ### Måndag   
 
-### Tisdag   
+Liten API-repetition med [You Give REST a Bad Name](https://youtu.be/nSKp2StlS6s) och [Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0).  
+
+### Tisdag  
+
+Pratar om [Millenium](https://sv.wikipedia.org/wiki/Millennium_(journalsystem)) och hur IT-system / Webbtjänster kan fungera och vad konsekvenser blir om systemen inte fungerar eller har dåliga gränssnitt.
 
 ### Torsdag
 
+Vi pratar WCAG (Web Content Accessibility Guidelines)! 
+Internet är för alla och i många fall finns viktig information som alla ska kunna ta del av, därför har EU nu lagsitftat om WCAG som träder i kraft 2025. Vi tittar närmare på olika punkter som finns i riktlinjerna.
+Tittar även på olika sidor och går igenom exempel på vad som är okej och inte okej.
+
+[Lista på bra exempel där hemsidor följer bl.a. WCAG](https://www.audioeye.com/post/accessible-website-design-examples/)
+
+[Nyhet från DIGG om WCAG](https://www.digg.se/om-oss/nyheter/digital-tillganglighet/nyheter/2023-10-12-wcag-har-uppdaterats---vad-innebar-det-for-dig-som-offentlig-aktor)
+
+[W3: Web Content Accessibility Guidelines (WCAG) 2.1
+](https://www.w3.org/TR/2023/REC-WCAG21-20230921/)
+
+[Ett verktyg för att undersöka om en hemsida följer riktlinjerna](https://www.accessibilitychecker.org/)
+
 ### Fredag   
+
+Två tips för färger är [The good colors](https://thegoodcolors.com/) och [RandomA11y](https://randoma11y.com/).  
+
+*Sociala medier-genomgång*: Konnor Rogers visar hur [System Colors](https://ruby.social/@konnorrogers/113522488460331252) ser ut, Ethan Marcotte's berämda bok om [Responsive Design](https://ethanmarcotte.com/books/responsive-design-patterns-and-principles/) är numera gratis och det finns en riktigt bra [Accessibility testing guide](https://github.com/alphagov/wcag-primer/wiki) på github. 
 
 ## Vecka 48   
 
 ### Måndag   
 
+Arbeta vidare med projektet
+
 ### Tisdag   
+
+Arbeta vidare med projektet
 
 ### Torsdag
 
+Arbeta vidare med projektet
+
 ### Fredag   
+
+Arbeta vidare med projektet
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 49   
 
 ### Måndag   
 
+<!-- 
+###### Agil utveckling med Scrum/Kanban  
+
+Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
+
+Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
+
+För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
+--> 
+
 ### Tisdag   
 
 ### Torsdag
 
 ### Fredag   
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 50   
 
@@ -332,6 +396,8 @@ Arbeta vidare med projektet
 
 ### Fredag   
 
+*Sociala medier-genomgång*: 
+
 ## Vecka 51   
 
 ### Måndag   
@@ -341,6 +407,8 @@ Arbeta vidare med projektet
 ### Torsdag
 
 ### Fredag   
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 52   
 
