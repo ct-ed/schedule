@@ -22,23 +22,7 @@ Prov: Repetition HTML & CSS
 
 ## Vecka 37   
 
-###### Installera Linux!   
-
-1) Skaffa filen [kubuntu-2024.05.01-x85_64.iso](https://kubuntu.org/getkubuntu/)   
-
-2) Se till att du har backup i OneDrive på all viktig data.   
-
-3) Krymp din primära diskpartition till hälften, antingen genom "[Disk Management](https://youtu.be/qq-7X8zLP7g?t=262)" i Windows eller [gParted](https://gparted.org/livecd.php).   
- 
-4) Skapa nu en bootbar USB-sticka med Kubuntu på. Använd till exempel [Rufus](https://rufus.ie/en/).
-
-5) Starta om datorn och öppna BIOS [F10].    
-[Deaktivera BitLocker](https://www.howtogeek.com/805225/disable-bitlocker/).   
-Stäng av Secure Boot (och FastBoot). Starta om med din bootbara USB-sticka i och tryck [F9] för att välja att boota från den.  
-
-6) Installera Kubuntu. Välj engelska som språk, men sverige som plats och svenskt tangentbord.  
-
-7) Starta om datorn och välj Kubuntu i bootmenyn GRUB. Njut av ditt nya OS!  
+[Uppgift: Installera Linux](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_linux)     
 
 ## Vecka 38   
 
@@ -73,34 +57,96 @@ Prova att dra igång några containrar. Till exempel [ReactOS](https://github.co
 
 ## Vecka 40   
 
+###### Introduktion till CMS:er  
+
+Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 10.           
+
+[![Drupals versioner](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png) ](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png)     
+
+[Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)     
+
+Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med följande kommandon. 
+
+    lando start     
+
+&nbsp;
+
+    lando stop      
 
 ## Vecka 41   
 
+Slutför de två tidigare uppgifterna och djupdyk i handhavandet av Docker, Lando och Drupal.  
 
 ## Vecka 42   
 
+Slutför alla de tidigare uppgifterna! När du är klar djupdyker du i handhavandet av Docker, Lando och Drupal.   
+
+[Uppgift: Aktivera Utvecklarläge](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-aktivera_utvecklarlage)   
+
+Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 ## Vecka 43   
 
+Repetition av förra veckan.   
+
+Övning i halvklass.   
+
+[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
+
+Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
+
+**Läxa till vecka 45**: Se avsnitten 32 och 33 (Revisions och Devel, 9min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". Om du inte lyckas installera moduler, lura ut hur!       
 
 ## Vecka 44   
 
 **HÖSTLOV**   
-https://sv.wikipedia.org/wiki/Pakethanterare
+
 ## Vecka 45   
 
+Repetition och en titt på läxan.  
 
-## Vecka 46   
+Vi ser avsnitten 27-29 (Taxonomy, 10min), 30-31 (Content, 10min) och 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
 
+## Vecka 46  
+
+Lektionen utgår  
 
 ## Vecka 47   
 
+Vi ser avsnitten 37-40 (Views, 20min) och 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+[Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
+
+--
+
+Andra halvan av lektionen ser vi en föreläsning och diskuterar den.  
+
+"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
+
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf. 
+
+<!-- 
+
+𝕏
+
+[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
+
+[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
+
+[How To Use AI in Drupal to Set the Tone of Your Content](https://youtu.be/Vz7oTYYBeK0) (8 min)   
+
+Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".     
+
+Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+-->   
 
 ## Vecka 48   
 
 
 ## Vecka 49   
 
+Prov på Grundkurs i CMS   
 
 ## Vecka 50   
 

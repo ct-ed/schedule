@@ -87,7 +87,7 @@ Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/w
 ### Måndag   
 
 ###### The Fediverse      
-Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/X drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
+Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/𝕏 drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
 
 Slutprov på [JavaScript Essentials 1](https://www.netacad.com/courses/javascript-essentials-1)   
 
@@ -153,7 +153,11 @@ Vi startar det första projektet och går igenom vad som skall göras.
 
 ### Måndag   
 
+Arbeta vidare med uppgiften   
+
 ### Tisdag   
+
+Arbeta vidare med uppgiften   
 
 ### Torsdag
 
@@ -163,31 +167,80 @@ Vi startar det första projektet och går igenom vad som skall göras.
 
 ### Måndag   
 
+###### Progressive Web Apps
+
+Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", och "[What PWA Can Do Today](https://whatpwacando.today/)".  
+
+De tre kraven för en PWA är följande: 
+
+1) HTTPS/SSL (som löses med [GitHub Pages](https://pages.github.com/) eller [Let's Encrypt](https://letsencrypt.org/))  
+2) En service worker (vilket bara är någon rad JavaScript)
+3) Ett Webb App Manifest (vilket kan lösas med "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)")   
+"[Progressive Web Apps: Where Do I Begin?](https://youtu.be/e8R-34uTtU8)" (58 min)      
+
+I videon talar Aaron bland annat om [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) och [Microsoft Design Guidelines](https://inclusive.microsoft.design/) (som sedan dess bytt namn).  
+
+Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehåll eller funktionalitet, men den skall kännas igen som en PWA av verktyg som [PWA Testing Tool](https://www.seoreviewtools.com/pwa-testing-tool/).  
+
 ### Tisdag   
 
 ### Torsdag
 
+Vi ser på klipp om populära mobiltelefoner sedan 1996 och pratar även om hur telefoner är uppbygda.
+
+Grupper finns på Teams.
+
+En ny uppgift om mobila operativsystem presenteras. Länk till uppgiften finns nedan. **DEADLINE**: **Presentation 22 oktober** och **inlämning 25 oktober**.
+
+[Uppgift: Mobila operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/moimob-operativsystem)                   
+
 ### Fredag   
+
+Arbeta vidare med uppgiften   
+
+*Sociala medier-genomgång*: Vi talar om nya arbetstillfällen tack vare the [European Accessibility Act](https://en.wikipedia.org/wiki/European_Accessibility_Act) som träder i kraft 2025, det halvårsgamla memet "[Keep a Little Dirt Under My Pillow for The Dirt Man](https://youtu.be/Su4Kb-roLZE?)", ett [fantastiskt skämt om git](https://infosec.exchange/@SecureOwl/113232620588922374), [ProjectServiceWorker](https://mastodon.world/@dannymoerkerke/113206016741637252) och avslutar med det lastgamla memet om "[Modermodemet, själva hjärtat i hårddisken](https://www.youtube.com/shorts/WjSUsQUOy_U)".
 
 ## Vecka 42   
 
 ### Måndag   
 
+Dags för steg 2 i det längre app-projektet! Nu skall ni bygga en PWA!  
+
+[Uppgift: PWA](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)                    
+
 ### Tisdag   
 
 ### Torsdag
 
 ### Fredag   
+
+Kevin Powell berättar om vad som hände när "[I gave three AI models a CSS quiz](https://youtu.be/1q6qLcH8ADY)" (50 min), och vi följer med honom på resan.   
+
+Arbeta vidare med projektet.  
+
+*Sociala medier-genomgång*: Heydon Pickering skriver många utmärkta artiklar, och Axel tipsade om den starkt ironiska "[CSS: A New Kind Of JavaScript](https://heydonworks.com/article/css:-a-new-kind-of-javascript/)", kanhända har du nytta av [bildeditorn Sly](https://github.com/kra-mo/sly) och avslutningsvis tittar vi på "[8 Easy Ways to Improve Your Website Typography in Under 30 minutes](https://www.webdesignerdepot.com/2021/01/8-easy-ways-to-improve-your-website-typography-in-under-30-minutes/)".   
 
 ## Vecka 43   
 
 ### Måndag   
 
+Arbeta vidare med projektet.  
+
 ### Tisdag   
+
+Vi kör några omgångar [Hexcodle](https://hexcodle.com/) och talar om varför [OKLCH](https://oklch.com/) är så lättanvänt, samt att det är fortsatt viktigt med kontrast som kan kollas med [OddContrast](https://www.oddcontrast.com/)!  
+
+Arbeta vidare med projektet, denna veckan bör förarbetet, planeringen och designsystemet vara klart. Dessutom en fungerande PWA (som inte behöver ha något innehåll än).  
 
 ### Torsdag
 
 ### Fredag   
+
+Vi funderar kring frågan "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min) och hur olika karriärer leder oss längs spännande vägar! Uncle Stef delar med sig av sin livsvisdom.   
+
+Arbeta vidare med projektet.  
+
+*Sociala medier-genomgång*: [Loro är en CRDT](https://social.coop/@scottjenson/113358584617366527), för att hålla sig uppdaterad är [Daily Tech News Show](https://dailytechnewsshow.com/) ett utmärkt alternativ, The Verge lär oss om [hur världen såg ut för tjugo år sedan](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture) och [studier visar att katter är vätskor](https://www.sciencealert.com/cats-basically-are-a-liquid-after-all-study-confirms)!     
 
 ## Vecka 44   
 
@@ -197,51 +250,141 @@ Vi startar det första projektet och går igenom vad som skall göras.
 
 ### Måndag   
 
+###### Testning  
+Sedan tidigare är ni bekanta med hur man testar [kontrast](https://www.oddcontrast.com/), a11y, om koden [validerar](https://www.w3.org/developers/tools/), [laddningshastighet](https://pagespeed.web.dev/), [LCP](https://web.dev/lcp/), och så vidare... Nu när ni kan använda taskrunners så går det mycket lättare att automatisera sådant som a11y-tester med verktyg som [axe-core](https://www.npmjs.com/package/axe-core). Men det finns många fler sorters tester, som vi kommer titta närmare på nu!  
+
+[web.dev Learn Testing](https://web.dev/learn/testing) "What testing is" och "Types of automated testing"   
+
+* "[What Are the Types of Automated Testing](https://youtu.be/CQpY3W60PlY)" (1 min)  
+* "[What is Unit Testing and Why You Must Learn It](https://youtu.be/W2KOSaetWBk)" (2 min)
+* "[End to End Testing in 60 Seconds](https://youtu.be/OtJkafQtLGs)" (1 min)
+
+Notera att det finns olika standarder för vad man kallar tester på olika nivåer, men det handlar oftast om hur stor del av webbplatsen som testas.  
+
+* Accessibility testing, UI testing  
+* **Unit** testing, Component testing   
+* **Integration** testing, API testing   
+* System testing, End-to-end (**E2E**) testing  
+
+[MDN Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)   
+
+[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på 𝕏 uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
+
+Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera både axe-core och Cypress enligt ovan.  
+
 ### Tisdag   
+
+Gör klart implementeringen av tester i er personliga PWA och lämna in på Teams.  
+
+Arbeta vidare med projektet  
+
+Majoriteten av alla [API](https://en.wikipedia.org/wiki/API)er idag är av typen [REST](https://en.wikipedia.org/wiki/Representational_state_transfer). Vi ser "[RESTful APIs in 100 Seconds](https://youtu.be/-MTSQjw5DrM)" (3 min). Sedan 
+Vi tittar också på olika demos med hjälp av öppna API'er.
+
+Ni testar själv att exprimentera med öppna API'er från [Publika API'er från Github](https://github.com/public-apis/public-apis?tab=readme-ov-file)
 
 ### Torsdag
 
+Arbeta vidare med projektet  
+
 ### Fredag   
+
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*: Många coola rekommendationer denna veckan! För lågupplösta 3D-modeller finns [Blockbench](https://www.blockbench.net/), behöver du redigera en PDF så finns [Stirling PDF](https://stirlingpdf.io/), vill du ha ett gratis alternativ till Copilot så finns [Codeium](https://codeium.com/), ett DRM-fritt alternativ till Audible är [Libro.fm](https://libro.fm) och det är värt att återigen se över ditt CSS-resetdokument, eftersom [Your CSS reset should be layered](https://mayank.co/blog/css-reset-layer/)!  
 
 ## Vecka 46   
 
 ### Måndag   
 
+Arbeta vidare med projektet  
+
 ### Tisdag   
+
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*: En utmärkt resurs för moodboards är [same.energy](https://same.energy/search?q=warm+sunset%2C+beach%2C+cliffs), två fantastiska fonter för wireframes är [BLOKK](https://github.com/los-gordos/BLOKK) och [Redacted Script](https://fonts.google.com/specimen/Redacted+Script), två djupdykningar som är värda att göra är "[Exploring the browser rendering process](https://abhisaha.com/blog/exploring-browser-rendering-process)" och "[Fluid Everything Else](https://css-tricks.com/fluid-everything-else/)" och slutligen har vi en bra resurs att skicka till släktingar med foliehatt, "[Is my phone listening to me?](https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me)"   
 
 ### Torsdag
 
+Arbeta vidare med projektet  
+
 ### Fredag   
+
+Arbeta vidare med projektet  
 
 ## Vecka 47   
 
 ### Måndag   
 
-### Tisdag   
+Liten API-repetition med [You Give REST a Bad Name](https://youtu.be/nSKp2StlS6s) och [Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0).  
+
+### Tisdag  
+
+Pratar om [Millenium](https://sv.wikipedia.org/wiki/Millennium_(journalsystem)) och hur IT-system / Webbtjänster kan fungera och vad konsekvenser blir om systemen inte fungerar eller har dåliga gränssnitt.
 
 ### Torsdag
 
+Vi pratar WCAG (Web Content Accessibility Guidelines)! 
+Internet är för alla och i många fall finns viktig information som alla ska kunna ta del av, därför har EU nu lagsitftat om WCAG som träder i kraft 2025. Vi tittar närmare på olika punkter som finns i riktlinjerna.
+Tittar även på olika sidor och går igenom exempel på vad som är okej och inte okej.
+
+[Lista på bra exempel där hemsidor följer bl.a. WCAG](https://www.audioeye.com/post/accessible-website-design-examples/)
+
+[Nyhet från DIGG om WCAG](https://www.digg.se/om-oss/nyheter/digital-tillganglighet/nyheter/2023-10-12-wcag-har-uppdaterats---vad-innebar-det-for-dig-som-offentlig-aktor)
+
+[W3: Web Content Accessibility Guidelines (WCAG) 2.1
+](https://www.w3.org/TR/2023/REC-WCAG21-20230921/)
+
+[Ett verktyg för att undersöka om en hemsida följer riktlinjerna](https://www.accessibilitychecker.org/)
+
 ### Fredag   
+
+Två tips för färger är [The good colors](https://thegoodcolors.com/) och [RandomA11y](https://randoma11y.com/).  
+
+*Sociala medier-genomgång*: Konnor Rogers visar hur [System Colors](https://ruby.social/@konnorrogers/113522488460331252) ser ut, Ethan Marcotte's berämda bok om [Responsive Design](https://ethanmarcotte.com/books/responsive-design-patterns-and-principles/) är numera gratis och det finns en riktigt bra [Accessibility testing guide](https://github.com/alphagov/wcag-primer/wiki) på github. 
 
 ## Vecka 48   
 
 ### Måndag   
 
+Arbeta vidare med projektet
+
 ### Tisdag   
+
+Arbeta vidare med projektet
 
 ### Torsdag
 
+Arbeta vidare med projektet
+
 ### Fredag   
+
+Arbeta vidare med projektet
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 49   
 
 ### Måndag   
 
+<!-- 
+###### Agil utveckling med Scrum/Kanban  
+
+Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
+
+Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
+
+För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
+--> 
+
 ### Tisdag   
 
 ### Torsdag
 
 ### Fredag   
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 50   
 
@@ -253,6 +396,8 @@ Vi startar det första projektet och går igenom vad som skall göras.
 
 ### Fredag   
 
+*Sociala medier-genomgång*: 
+
 ## Vecka 51   
 
 ### Måndag   
@@ -262,6 +407,8 @@ Vi startar det första projektet och går igenom vad som skall göras.
 ### Torsdag
 
 ### Fredag   
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 52   
 
