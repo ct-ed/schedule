@@ -54,6 +54,7 @@ body {
   background: var(--stone-2);
   margin-block: var(--size-fluid-1);
   margin-inline: var(--size-fluid-1);
+  color: #000;
 }
 
 a {
@@ -74,14 +75,10 @@ a:not(:local-link) {
   outline: 2px solid var(--blue-12);
 }
 
-nav img {
-  filter: invert(1);
-}
-
 
 /* Layout */
 
-img {
+iframe, img {
   max-width: 100%;
 }
 
